@@ -41,7 +41,7 @@ NVIDIA GPU & Tensor Cores (HBM3 / GDDR6X, PCIe Gen5 DMA)
 ## Project Structure
 
 ```
-week - 2/
+Skill-2_DLAC/
 ├── ARCHITECTURE.md                  # Comprehensive architectural specification
 ├── docker-compose.yml               # Triton + FastAPI + Prometheus orchestration
 ├── Dockerfile.gateway               # FastAPI production container build
